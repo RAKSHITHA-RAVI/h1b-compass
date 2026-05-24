@@ -1,0 +1,148 @@
+================================================================
+H1B COMPASS — WEEKLY INTELLIGENCE REPORT
+Generated: 2026-05-23
+Dataset: 435,581 H-1B applications | Overall Approval Rate: 90.5%
+================================================================
+
+1. TOP 5 TARGET COMPANIES THIS WEEK
+================================================================
+
+Rank 1: DOXIMITY — HIGHEST PRIORITY
+- Status: Actively hiring (Data Analyst, San Francisco)
+- Salary: $107,080
+- H1B Approval Rate: 100% (2/2 applications approved)
+- Why target: Perfect approval record, health tech growth sector,
+  live opening confirmed via Adzuna API as of May 17 2026.
+  Apply immediately — this role is active right now.
+
+Rank 2: ANN & ROBERT H. LURIE CHILDREN'S HOSPITAL
+- Status: Actively hiring (BI Analyst, Chicago)
+- Salary: $70,720 — $115,627
+- H1B Approval Rate: 96% (24/25 approved)
+- Why target: Healthcare institutions have strong sponsorship
+  commitment. 96% approval across 25 applications is highly
+  reliable. Chicago has 94.5% city-level approval rate.
+
+Rank 3: CASTING NETWORKS
+- Status: Actively hiring (BI Analyst, Los Angeles)
+- Salary: $81,270
+- H1B Approval Rate: 100% (1/1 approved)
+- Why target: Perfect approval rate. Lower competition than
+  big tech. Niche media-tech company — strong for analysts
+  who want domain differentiation on resume.
+
+Rank 4: CAPITAL ONE SERVICES LLC
+- Status: Top H1B sponsor for Data Analyst roles specifically
+- H1B Approval Rate: 100% (85/85 approved)
+- Total Data Analyst applications: 85 — highest in dataset
+- Why target: Best-in-class approval rate at scale. No other
+  company in the dataset has 100% approval across 85+ analyst
+  applications. Monitor their careers page weekly.
+
+Rank 5: KFORCE INC.
+- Status: Top H1B sponsor, staffing firm
+- H1B Approval Rate: 100% (37/37 approved)
+- Why target: Staffing firms place candidates at client sites
+  and sponsor H1B. Kforce is one of the cleanest approval
+  records in the dataset. Good path if direct applications
+  are slow.
+
+================================================================
+2. SALARY BENCHMARKS BY CITY
+================================================================
+
+City 1: NEW YORK, NY
+- Average offered salary: $475,535
+- Prevailing wage: $414,581
+- Premium above market: +14.7% (+$60,954)
+- Volume: 17,893 applications
+- Approval rate: 87.8% — BELOW national average of 90.5%
+- Verdict: Highest pay but more competitive and slightly lower
+  approval. Best for senior roles. High cost of living offsets
+  the salary premium.
+
+City 2: SANTA CLARA, CA
+- Average offered salary: $431,202 (CA state average)
+- Premium above market: +2.8%
+- Volume: 10,235 applications
+- Approval rate: 97.0% — BEST combination of volume + approval
+- Verdict: Best risk-adjusted city in the dataset. High volume
+  means many opportunities. 97% approval means you're very
+  likely to get approved if you land an offer here.
+  Strongly recommended for tech analyst roles.
+
+City 3: SEATTLE, WA
+- Average offered salary: $198,560 (median $160,000)
+- Note: WA offered salary is BELOW prevailing wage by 4.3%
+- Volume: 17,661 applications — second highest in dataset
+- Approval rate: 98.2% — highest among high-volume cities
+- Verdict: Highest approval rate in the dataset for a major
+  city. Amazon and Microsoft dominate here. If you target
+  those companies, Seattle is your best geographic bet.
+  Watch the below-market salary signal carefully though.
+
+================================================================
+3. APPROVAL RATE WARNINGS
+================================================================
+
+WARNING 1 — CRITICAL: ARIZONA STATE UNIVERSITY (73.6%)
+- Your own university is the riskiest employer in the active
+  hiring pool. 73.6% approval vs 90.5% national average.
+- That is 16.9 percentage points below market.
+- Universities often face cap-subject H1B issues and budget
+  constraints. Apply only as a backup option.
+
+WARNING 2 — HIGH RISK: CANTOR FITZGERALD (80%)
+- Financial services firm with 80% approval rate.
+- 10.5 points below national average.
+- Salary offered ($64,227) is low for a Data Analyst role —
+  low wage offers correlate with higher denial rates.
+- The data shows Level I wage offers have 15.2% denial rate
+  vs 7.6% for Level III. This role appears to be Level I.
+
+WARNING 3 — WAGE LEVEL RISK (applies to all employers):
+- Level I offers: 15.2% denial rate — avoid if possible
+- Level II offers: 9.1% denial rate
+- Level III/IV offers: 7.6% denial rate
+- When evaluating any offer, ask the employer what prevailing
+  wage level they filed at. Level I is a red flag.
+
+WARNING 4 — JOHNS HOPKINS UNIVERSITY (53.3%)
+- Worst approval rate among Data Analyst employers in dataset.
+- Only 16 of 30 applications approved. Avoid for H1B purposes.
+
+WARNING 5 — STATE RISK — MICHIGAN (-8.7%) and WASHINGTON (-4.3%)
+- Both states show offered salaries BELOW prevailing wage.
+- This is a compliance risk signal. DOL can deny applications
+  where offered wage is below prevailing wage.
+- Be cautious of offers in these states without verifying
+  the wage level carefully.
+
+================================================================
+4. WEEKLY SUMMARY
+================================================================
+
+The H1B market remains strong with a 90.5% overall approval rate
+across 435,581 analyzed applications. However the data reveals a
+clear two-tier market: large established tech companies like
+Amazon (99.9%, 10,862 apps), Microsoft (98.8%, 7,544 apps), and
+Cognizant (99.1%, 8,693 apps) sponsor at massive scale with near-
+perfect approval rates, while smaller and institutional employers
+show much higher volatility. For Data Analyst roles specifically,
+Capital One stands alone with 100% approval across 85 applications
+— the most reliable data analyst sponsor in the entire dataset.
+
+For international candidates on OPT this week, the actionable
+priority list is clear: apply to Doximity (live opening, 100%
+approval), monitor Capital One careers daily, and target Seattle
+or Santa Clara geographically for the best approval-to-volume
+ratio. Avoid Level I wage offers regardless of company — the
+15.2% denial rate at Level I is nearly double the Level III rate.
+Companies offering salaries below prevailing wage are a legal and
+immigration risk. The safest path to H1B approval in 2026 is a
+large tech employer in Seattle or Silicon Valley at Level II or
+above wage classification.
+
+================================================================
+[END OF REPORT]
+================================================================
