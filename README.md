@@ -13,6 +13,8 @@
 ## The Problem
 
 International students on OPT spend months applying to companies that quietly don't sponsor H1B visas — wasting time and missing real opportunities. There's no single tool that tells you *which companies actually approve H1B applications, at what salary, in which cities, right now.*
+![Dashboard Overview](results/dashboard.png)
+
 
 **H1B Compass solves this.**
 
